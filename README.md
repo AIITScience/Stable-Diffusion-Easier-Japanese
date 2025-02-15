@@ -5,4 +5,4 @@ Windowsのみ
 Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス](https://github.com/AIITScience/Stable-Diffusion-Easier/blob/main/LICENSE.md)が適用されます。
 
 ---
-Powered by Stability AI
+**Powered by Stability AI**
