@@ -4,7 +4,8 @@
 ## OS
 Windowsのみ
 ## ライセンス
-Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス(英語)](https://github.com/AIITScience/Stable-Diffusion-Easier/blob/main/LICENSE.md)が適用されます。
+Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス](https://github.com/AIITScience/Stable-Diffusion-Easier/blob/main/LICENSE.md)が適用されます。
 
 ---
-**Powered by Stability AI**
+**Powered by [Stability AI](https://stability.ai/)**
+[![Static Badge](https://img.shields.io/badge/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AB%E6%88%BB%E3%82%8B-blue)](https://aiitscience.github.io/) 
