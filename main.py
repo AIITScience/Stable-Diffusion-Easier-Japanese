@@ -1,7 +1,5 @@
 from gradio_client import Client
 
-print(Enter...)
-
 promptinput=input()
 
 client = Client("stabilityai/stable-diffusion-3.5-medium")
