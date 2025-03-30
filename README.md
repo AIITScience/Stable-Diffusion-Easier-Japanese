@@ -10,6 +10,7 @@ Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス]
 3. 指示に従ってインストール。
 4. インストールできたら起動。
 5. アプリの指示に従う。
+
 ### Linux
 1. `sudo apt-get install python3`を実行してPythonをインストール。
 2. `wget https://bootstrap.pypa.io/get-pip.py`を実行。
@@ -17,7 +18,7 @@ Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス]
 4. `export PATH=$PATH:~/.local/bin`を実行してpipコマンドを実行できるようにする。
 5. `pip install gradio_client`を実行してGradioクライアントをインストール。
 6. `sudo apt-get install git`を実行してGitをインストール。
-7. `git clone https://github.com/AIITScience/Stable-Diffusion-Easier-Japanese`を実行してこのリポジトリをクローン。
+7. `git clone https://github.com/AIITScience/Stable-Diffusion-Easier-Japanese.git`を実行してこのリポジトリをクローン。
 8. `cd Stable-Diffusion-Easier-Japanese`を実行してコマンドの場所を変更。
 9. `python main.py`を実行。
 10. 生成したいものを英語入力してenterキーを押す。
