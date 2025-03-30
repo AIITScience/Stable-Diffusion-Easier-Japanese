@@ -11,7 +11,7 @@ Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス]
 4. インストールできたら起動。
 5. アプリの指示に従う。
 
-### Linux
+### LinuxやMac
 1. `sudo apt-get install python3`を実行してPythonをインストール。
 2. `wget https://bootstrap.pypa.io/get-pip.py`を実行。
 3. `python get-pip.py`を実行してpipとsetuptoolsをインストール。
