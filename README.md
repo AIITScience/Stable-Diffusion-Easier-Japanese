@@ -21,7 +21,7 @@ Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス]
 7. `git clone https://github.com/AIITScience/Stable-Diffusion-Easier-Japanese.git`を実行してこのリポジトリをクローン。
 8. `cd Stable-Diffusion-Easier-Japanese`を実行してコマンドの場所を変更。
 9. `python main.py`を実行。
-10. 生成したいものを英語入力してenterキーを押す。
+10. 生成したいものを入力してenterキーを押す。
 11. 表示されたパスに画像が生成される。
 
 ---
