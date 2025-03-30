@@ -7,7 +7,7 @@ Stable Diffusion 3.5 Mediumを使用しているので、その[ライセンス]
 ### デモ
 [HuggingFaceSpaces](https://aiitscience-stable-diffusion-3-5-medium.hf.space/)
 ### Android
-1. [![Static Badge](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89apk-green)](https://github.com/AIITScience/Stable-Diffusion-Easier-Japanese/releases/tag/v1)
+1. [![Static Badge](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89apk-green)](https://github.com/AIITScience/Stable-Diffusion-Easier-Japanese/releases/download/v1/Stable.Diffusion.Easier-v1-release.apk)
 2. インストーラを開いてインストール。
 3. アプリを開く。
 
